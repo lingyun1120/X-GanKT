@@ -1,2 +1,2 @@
-# X-GanKT
+# XGanKT
 Gank.IO BY KOTLIN 
